@@ -1,0 +1,57 @@
+.t\/s\/i {
+	font-style: italic;
+}
+
+.t\/s\/n {
+	font-style: normal;
+}
+
+@media (--mq-xs) {
+	.t\/s\/i\@xs {
+		font-style: italic;
+	}
+
+	.t\/s\/n\@xs {
+		font-style: normal;
+	}
+}
+
+@media (--mq-sm) {
+	.t\/s\/i\@sm {
+		font-style: italic;
+	}
+
+	.t\/s\/n\@sm {
+		font-style: normal;
+	}
+}
+
+@media (--mq-md) {
+	.t\/s\/i\@md {
+		font-style: italic;
+	}
+
+	.t\/s\/n\@md {
+		font-style: normal;
+	}
+}
+
+@media (--mq-lg) {
+	.t\/s\/i\@lg {
+		font-style: italic;
+	}
+
+	.t\/s\/n\@lg {
+		font-style: normal;
+	}
+}
+
+@media (--mq-xl) {
+	.t\/s\/i\@xl {
+		font-style: italic;
+	}
+
+	.t\/s\/n\@xl {
+		font-style: normal;
+	}
+}

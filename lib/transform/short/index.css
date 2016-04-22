@@ -1,0 +1,81 @@
+.t\/t\/c {
+	text-transform: capitalize;
+}
+
+.t\/t\/u {
+	text-transform: uppercase;
+}
+
+.t\/t\/l {
+	text-transform: lowercase;
+}
+
+@media (--mq-xs) {
+	.t\/t\/c\@xs {
+		text-transform: capitalize;
+	}
+
+	.t\/t\/u\@xs {
+		text-transform: uppercase;
+	}
+
+	.t\/t\/l\@xs {
+		text-transform: lowercase;
+	}
+}
+
+@media (--mq-sm) {
+	.t\/t\/c\@sm {
+		text-transform: capitalize;
+	}
+
+	.t\/t\/u\@sm {
+		text-transform: uppercase;
+	}
+
+	.t\/t\/l\@sm {
+		text-transform: lowercase;
+	}
+}
+
+@media (--mq-md) {
+	.t\/t\/c\@md {
+		text-transform: capitalize;
+	}
+
+	.t\/t\/u\@md {
+		text-transform: uppercase;
+	}
+
+	.t\/t\/l\@md {
+		text-transform: lowercase;
+	}
+}
+
+@media (--mq-lg) {
+	.t\/t\/c\@lg {
+		text-transform: capitalize;
+	}
+
+	.t\/t\/u\@lg {
+		text-transform: uppercase;
+	}
+
+	.t\/t\/l\@lg {
+		text-transform: lowercase;
+	}
+}
+
+@media (--mq-xl) {
+	.t\/t\/c\@xl {
+		text-transform: capitalize;
+	}
+
+	.t\/t\/u\@xl {
+		text-transform: uppercase;
+	}
+
+	.t\/t\/l\@xl {
+		text-transform: lowercase;
+	}
+}

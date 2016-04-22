@@ -1,0 +1,8 @@
+@import "./short/index.css";
+@import "./long/index.css";
+
+:root {
+	--funco-type-leading--title: 1.25;
+	--funco-type-leading--copy: 1.65;
+	--funco-type-leading--normal: 1;
+}

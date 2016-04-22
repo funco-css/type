@@ -1,0 +1,45 @@
+@for $i from -5 to 10 {
+	.t\/s\/$i {
+		font-size: var(--funco-type-size--$i);
+	}
+}
+
+@media (--mq-xs) {
+	@for $i from -5 to 10 {
+		.t\/s\/$i\@xs {
+			font-size: var(--funco-type-size--$i);
+		}
+	}
+}
+
+@media (--mq-sm) {
+	@for $i from -5 to 10 {
+		.t\/s\/$i\@sm {
+			font-size: var(--funco-type-size--$i);
+		}
+	}
+}
+
+@media (--mq-md) {
+	@for $i from -5 to 10 {
+		.t\/s\/$i\@md {
+			font-size: var(--funco-type-size--$i);
+		}
+	}
+}
+
+@media (--mq-lg) {
+	@for $i from -5 to 10 {
+		.t\/s\/$i\@lg {
+			font-size: var(--funco-type-size--$i);
+		}
+	}
+}
+
+@media (--mq-xl) {
+	@for $i from -5 to 10 {
+		.t\/s\/$i\@xl {
+			font-size: var(--funco-type-size--$i);
+		}
+	}
+}

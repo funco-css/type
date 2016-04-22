@@ -1,0 +1,81 @@
+.type\/weight\/light {
+	font-weight: var(--funco-type-weight--light);
+}
+
+.type\/weight\/normal {
+	font-weight: var(--funco-type-weight--normal);
+}
+
+.type\/weight\/bold {
+	font-weight: var(--funco-type-weight--bold);
+}
+
+@media (--mq-xs) {
+	.type\/weight\/light\@xs {
+		font-weight: var(--funco-type-weight--light);
+	}
+
+	.type\/weight\/normal\@xs {
+		font-weight: var(--funco-type-weight--normal);
+	}
+
+	.type\/weight\/bold\@xs {
+		font-weight: var(--funco-type-weight--bold);
+	}
+}
+
+@media (--mq-sm) {
+	.type\/weight\/light\@sm {
+		font-weight: var(--funco-type-weight--light);
+	}
+
+	.type\/weight\/normal\@sm {
+		font-weight: var(--funco-type-weight--normal);
+	}
+
+	.type\/weight\/bold\@sm {
+		font-weight: var(--funco-type-weight--bold);
+	}
+}
+
+@media (--mq-md) {
+	.type\/weight\/light\@md {
+		font-weight: var(--funco-type-weight--light);
+	}
+
+	.type\/weight\/normal\@md {
+		font-weight: var(--funco-type-weight--normal);
+	}
+
+	.type\/weight\/bold\@md {
+		font-weight: var(--funco-type-weight--bold);
+	}
+}
+
+@media (--mq-lg) {
+	.type\/weight\/light\@lg {
+		font-weight: var(--funco-type-weight--light);
+	}
+
+	.type\/weight\/normal\@lg {
+		font-weight: var(--funco-type-weight--normal);
+	}
+
+	.type\/weight\/bold\@lg {
+		font-weight: var(--funco-type-weight--bold);
+	}
+}
+
+@media (--mq-xl) {
+	.type\/weight\/light\@xl {
+		font-weight: var(--funco-type-weight--light);
+	}
+
+	.type\/weight\/normal\@xl {
+		font-weight: var(--funco-type-weight--normal);
+	}
+
+	.type\/weight\/bold\@xl {
+		font-weight: var(--funco-type-weight--bold);
+	}
+}

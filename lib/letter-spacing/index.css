@@ -1,0 +1,8 @@
+@import "./short/index.css";
+@import "./long/index.css";
+
+:root {
+	--funco-type-tracking--tight: -.08em;
+	--funco-type-tracking--normal: .16em;
+	--funco-type-tracking--loose: .32em;
+}

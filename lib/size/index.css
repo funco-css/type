@@ -1,0 +1,22 @@
+@import "./short/index.css";
+@import "./long/index.css";
+
+:root {
+	--funco-type-size---5: .125rem;
+	--funco-type-size---4: .25rem;
+	--funco-type-size---3: .333rem;
+	--funco-type-size---2: .5rem;
+	--funco-type-size---2: .666rem;
+	--funco-type-size---1: .8rem;
+	--funco-type-size--0: 1rem;
+	--funco-type-size--1: 1.125rem;
+	--funco-type-size--2: 1.25rem;
+	--funco-type-size--3: 1.5rem;
+	--funco-type-size--4: 1.75rem;
+	--funco-type-size--5: 2rem;
+	--funco-type-size--6: 3rem;
+	--funco-type-size--7: 4rem;
+	--funco-type-size--8: 5rem;
+	--funco-type-size--9: 6rem;
+	--funco-type-size--10: 7rem;
+}

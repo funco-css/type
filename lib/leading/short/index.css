@@ -1,0 +1,82 @@
+.t\/l\/t {
+	line-height: var(--funco-type-leading--title);
+}
+
+.t\/l\/n {
+	line-height: var(--funco-type-leading--normal);
+}
+
+.t\/l\/c {
+	line-height: var(--funco-type-leading--copy);
+}
+
+@media (--mq-xs) {
+	.t\/l\/t\@xs {
+		line-height: var(--funco-type-leading--title);
+	}
+
+	.t\/l\/n\@xs {
+		line-height: var(--funco-type-leading--normal);
+	}
+
+	.t\/l\/c\@xs {
+		line-height: var(--funco-type-leading--copy);
+	}
+}
+
+@media (--mq-sm) {
+	.t\/l\/t\@sm {
+		line-height: var(--funco-type-leading--title);
+	}
+
+	.t\/l\/n\@sm {
+		line-height: var(--funco-type-leading--normal);
+	}
+
+	.t\/l\/c\@sm {
+		line-height: var(--funco-type-leading--copy);
+	}
+}
+
+@media (--mq-md) {
+	.t\/l\/t\@md {
+		line-height: var(--funco-type-leading--title);
+	}
+
+	.t\/l\/n\@md {
+		line-height: var(--funco-type-leading--normal);
+	}
+
+	.t\/l\/c\@md {
+		line-height: var(--funco-type-leading--copy);
+	}
+}
+
+@media (--mq-lg) {
+	.t\/l\/t\@lg {
+		line-height: var(--funco-type-leading--title);
+	}
+
+	.t\/l\/n\@lg {
+		line-height: var(--funco-type-leading--normal);
+	}
+
+	.t\/l\/c\@lg {
+		line-height: var(--funco-type-leading--copy);
+	}
+
+}
+
+@media (--mq-xl) {
+	.t\/l\/t\@xl {
+		line-height: var(--funco-type-leading--title);
+	}
+
+	.t\/l\/n\@xl {
+		line-height: var(--funco-type-leading--normal);
+	}
+
+	.t\/l\/c\@xl {
+		line-height: var(--funco-type-leading--copy);
+	}
+}

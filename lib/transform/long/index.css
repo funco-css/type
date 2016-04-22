@@ -1,0 +1,81 @@
+.type\/transform\/capitalize {
+	text-transform: capitalize;
+}
+
+.type\/transform\/uppercase {
+	text-transform: uppercase;
+}
+
+.type\/transform\/lowercase {
+	text-transform: lowercase;
+}
+
+@media (--mq-xs) {
+	.type\/transform\/capitalize\@xs {
+		text-transform: capitalize;
+	}
+
+	.type\/transform\/uppercase\@xs {
+		text-transform: uppercase;
+	}
+
+	.type\/transform\/lowercase\@xs {
+		text-transform: lowercase;
+	}
+}
+
+@media (--mq-sm) {
+	.type\/transform\/capitalize\@sm {
+		text-transform: capitalize;
+	}
+
+	.type\/transform\/uppercase\@sm {
+		text-transform: uppercase;
+	}
+
+	.type\/transform\/lowercase\@sm {
+		text-transform: lowercase;
+	}
+}
+
+@media (--mq-md) {
+	.type\/transform\/capitalize\@md {
+		text-transform: capitalize;
+	}
+
+	.type\/transform\/uppercase\@md {
+		text-transform: uppercase;
+	}
+
+	.type\/transform\/lowercase\@md {
+		text-transform: lowercase;
+	}
+}
+
+@media (--mq-lg) {
+	.type\/transform\/capitalize\@lg {
+		text-transform: capitalize;
+	}
+
+	.type\/transform\/uppercase\@lg {
+		text-transform: uppercase;
+	}
+
+	.type\/transform\/lowercase\@lg {
+		text-transform: lowercase;
+	}
+}
+
+@media (--mq-xl) {
+	.type\/transform\/capitalize\@xl {
+		text-transform: capitalize;
+	}
+
+	.type\/transform\/uppercase\@xl {
+		text-transform: uppercase;
+	}
+
+	.type\/transform\/lowercase\@xl {
+		text-transform: lowercase;
+	}
+}

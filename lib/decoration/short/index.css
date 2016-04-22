@@ -1,0 +1,81 @@
+.t\/d\/u {
+	text-decoration: underline;
+}
+
+.t\/d\/n {
+	text-decoration: none;
+}
+
+.t\/d\/s {
+	text-decoration: strikethrough;
+}
+
+@media (--mq-xs) {
+	.t\/d\/u\@xs {
+		text-decoration: underline;
+	}
+
+	.t\/d\/n\@xs {
+		text-decoration: none;
+	}
+
+	.t\/d\/s\@xs {
+		text-decoration: strikethrough;
+	}
+}
+
+@media (--mq-sm) {
+	.t\/d\/u\@sm {
+		text-decoration: underline;
+	}
+
+	.t\/d\/n\@sm {
+		text-decoration: none;
+	}
+
+	.t\/d\/s\@sm {
+		text-decoration: strikethrough;
+	}
+}
+
+@media (--mq-md) {
+	.t\/d\/u\@md {
+		text-decoration: underline;
+	}
+
+	.t\/d\/n\@md {
+		text-decoration: none;
+	}
+
+	.t\/d\/s\@md {
+		text-decoration: strikethrough;
+	}
+}
+
+@media (--mq-lg) {
+	.t\/d\/u\@lg {
+		text-decoration: underline;
+	}
+
+	.t\/d\/n\@lg {
+		text-decoration: none;
+	}
+
+	.t\/d\/s\@lg {
+		text-decoration: strikethrough;
+	}
+}
+
+@media (--mq-xl) {
+	.t\/d\/u\@xl {
+		text-decoration: underline;
+	}
+
+	.t\/d\/n\@xl {
+		text-decoration: none;
+	}
+
+	.t\/d\/s\@xl {
+		text-decoration: strikethrough;
+	}
+}

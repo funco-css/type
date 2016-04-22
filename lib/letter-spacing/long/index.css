@@ -1,0 +1,81 @@
+.type\/letter-spacing\/tight {
+	letter-spacing: var(--funco-type-tracking--tight);
+}
+
+.type\/letter-spacing\/normal {
+	letter-spacing: var(--funco-type-tracking--normal);
+}
+
+.type\/letter-spacing\/loose {
+	letter-spacing: var(--funco-type-tracking--loose);
+}
+
+@media (--mq-xs) {
+	.type\/letter-spacing\/tight\@xs {
+		letter-spacing: var(--funco-type-tracking--tight);
+	}
+
+	.type\/letter-spacing\/normal\@xs {
+		letter-spacing: var(--funco-type-tracking--normal);
+	}
+
+	.type\/letter-spacing\/loose\@xs {
+		letter-spacing: var(--funco-type-tracking--loose);
+	}
+}
+
+@media (--mq-sm) {
+	.type\/letter-spacing\/tight\@sm {
+		letter-spacing: var(--funco-type-tracking--tight);
+	}
+
+	.type\/letter-spacing\/normal\@sm {
+		letter-spacing: var(--funco-type-tracking--normal);
+	}
+
+	.type\/letter-spacing\/loose\@sm {
+		letter-spacing: var(--funco-type-tracking--loose);
+	}
+}
+
+@media (--mq-md) {
+	.type\/letter-spacing\/tight\@md {
+		letter-spacing: var(--funco-type-tracking--tight);
+	}
+
+	.type\/letter-spacing\/normal\@md {
+		letter-spacing: var(--funco-type-tracking--normal);
+	}
+
+	.type\/letter-spacing\/loose\@md {
+		letter-spacing: var(--funco-type-tracking--loose);
+	}
+}
+
+@media (--mq-lg) {
+	.type\/letter-spacing\/tight\@lg {
+		letter-spacing: var(--funco-type-tracking--tight);
+	}
+
+	.type\/letter-spacing\/normal\@lg {
+		letter-spacing: var(--funco-type-tracking--normal);
+	}
+
+	.type\/letter-spacing\/loose\@lg {
+		letter-spacing: var(--funco-type-tracking--loose);
+	}
+}
+
+@media (--mq-xl) {
+	.type\/letter-spacing\/tight\@xl {
+		letter-spacing: var(--funco-type-tracking--tight);
+	}
+
+	.type\/letter-spacing\/normal\@xl {
+		letter-spacing: var(--funco-type-tracking--normal);
+	}
+
+	.type\/letter-spacing\/loose\@xl {
+		letter-spacing: var(--funco-type-tracking--loose);
+	}
+}

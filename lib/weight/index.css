@@ -1,0 +1,8 @@
+@import "./short/index.css";
+@import "./long/index.css";
+
+:root {
+	--funco-type-weight--light: light;
+	--funco-type-weight--normal: normal;
+	--funco-type-weight--bold: bold;
+}

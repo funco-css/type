@@ -1,0 +1,1606 @@
+.t\/s\/-5 {
+	font-size: 2px;
+	font-size: .125rem;
+}
+
+.t\/s\/-4 {
+	font-size: 4px;
+	font-size: .25rem;
+}
+
+.t\/s\/-3 {
+	font-size: 5.328px;
+	font-size: .333rem;
+}
+
+.t\/s\/-2 {
+	font-size: 10.656px;
+	font-size: .666rem;
+}
+
+.t\/s\/-1 {
+	font-size: 12.8px;
+	font-size: .8rem;
+}
+
+.t\/s\/0 {
+	font-size: 16px;
+	font-size: 1rem;
+}
+
+.t\/s\/1 {
+	font-size: 18px;
+	font-size: 1.125rem;
+}
+
+.t\/s\/2 {
+	font-size: 20px;
+	font-size: 1.25rem;
+}
+
+.t\/s\/3 {
+	font-size: 24px;
+	font-size: 1.5rem;
+}
+
+.t\/s\/4 {
+	font-size: 28px;
+	font-size: 1.75rem;
+}
+
+.t\/s\/5 {
+	font-size: 32px;
+	font-size: 2rem;
+}
+
+.t\/s\/6 {
+	font-size: 48px;
+	font-size: 3rem;
+}
+
+.t\/s\/7 {
+	font-size: 64px;
+	font-size: 4rem;
+}
+
+.t\/s\/8 {
+	font-size: 80px;
+	font-size: 5rem;
+}
+
+.t\/s\/9 {
+	font-size: 96px;
+	font-size: 6rem;
+}
+
+.t\/s\/10 {
+	font-size: 112px;
+	font-size: 7rem;
+}
+
+@media (min-width: 20em) {
+	.t\/s\/-5\@xs {
+		font-size: .125rem;
+	}
+	.t\/s\/-4\@xs {
+		font-size: .25rem;
+	}
+	.t\/s\/-3\@xs {
+		font-size: .333rem;
+	}
+	.t\/s\/-2\@xs {
+		font-size: .666rem;
+	}
+	.t\/s\/-1\@xs {
+		font-size: .8rem;
+	}
+	.t\/s\/0\@xs {
+		font-size: 1rem;
+	}
+	.t\/s\/1\@xs {
+		font-size: 1.125rem;
+	}
+	.t\/s\/2\@xs {
+		font-size: 1.25rem;
+	}
+	.t\/s\/3\@xs {
+		font-size: 1.5rem;
+	}
+	.t\/s\/4\@xs {
+		font-size: 1.75rem;
+	}
+	.t\/s\/5\@xs {
+		font-size: 2rem;
+	}
+	.t\/s\/6\@xs {
+		font-size: 3rem;
+	}
+	.t\/s\/7\@xs {
+		font-size: 4rem;
+	}
+	.t\/s\/8\@xs {
+		font-size: 5rem;
+	}
+	.t\/s\/9\@xs {
+		font-size: 6rem;
+	}
+	.t\/s\/10\@xs {
+		font-size: 7rem;
+	}
+}
+
+@media (min-width: 30em) {
+	.t\/s\/-5\@sm {
+		font-size: .125rem;
+	}
+	.t\/s\/-4\@sm {
+		font-size: .25rem;
+	}
+	.t\/s\/-3\@sm {
+		font-size: .333rem;
+	}
+	.t\/s\/-2\@sm {
+		font-size: .666rem;
+	}
+	.t\/s\/-1\@sm {
+		font-size: .8rem;
+	}
+	.t\/s\/0\@sm {
+		font-size: 1rem;
+	}
+	.t\/s\/1\@sm {
+		font-size: 1.125rem;
+	}
+	.t\/s\/2\@sm {
+		font-size: 1.25rem;
+	}
+	.t\/s\/3\@sm {
+		font-size: 1.5rem;
+	}
+	.t\/s\/4\@sm {
+		font-size: 1.75rem;
+	}
+	.t\/s\/5\@sm {
+		font-size: 2rem;
+	}
+	.t\/s\/6\@sm {
+		font-size: 3rem;
+	}
+	.t\/s\/7\@sm {
+		font-size: 4rem;
+	}
+	.t\/s\/8\@sm {
+		font-size: 5rem;
+	}
+	.t\/s\/9\@sm {
+		font-size: 6rem;
+	}
+	.t\/s\/10\@sm {
+		font-size: 7rem;
+	}
+}
+
+@media (min-width: 37em) {
+	.t\/s\/-5\@md {
+		font-size: .125rem;
+	}
+	.t\/s\/-4\@md {
+		font-size: .25rem;
+	}
+	.t\/s\/-3\@md {
+		font-size: .333rem;
+	}
+	.t\/s\/-2\@md {
+		font-size: .666rem;
+	}
+	.t\/s\/-1\@md {
+		font-size: .8rem;
+	}
+	.t\/s\/0\@md {
+		font-size: 1rem;
+	}
+	.t\/s\/1\@md {
+		font-size: 1.125rem;
+	}
+	.t\/s\/2\@md {
+		font-size: 1.25rem;
+	}
+	.t\/s\/3\@md {
+		font-size: 1.5rem;
+	}
+	.t\/s\/4\@md {
+		font-size: 1.75rem;
+	}
+	.t\/s\/5\@md {
+		font-size: 2rem;
+	}
+	.t\/s\/6\@md {
+		font-size: 3rem;
+	}
+	.t\/s\/7\@md {
+		font-size: 4rem;
+	}
+	.t\/s\/8\@md {
+		font-size: 5rem;
+	}
+	.t\/s\/9\@md {
+		font-size: 6rem;
+	}
+	.t\/s\/10\@md {
+		font-size: 7rem;
+	}
+}
+
+@media (min-width: 50em) {
+	.t\/s\/-5\@lg {
+		font-size: .125rem;
+	}
+	.t\/s\/-4\@lg {
+		font-size: .25rem;
+	}
+	.t\/s\/-3\@lg {
+		font-size: .333rem;
+	}
+	.t\/s\/-2\@lg {
+		font-size: .666rem;
+	}
+	.t\/s\/-1\@lg {
+		font-size: .8rem;
+	}
+	.t\/s\/0\@lg {
+		font-size: 1rem;
+	}
+	.t\/s\/1\@lg {
+		font-size: 1.125rem;
+	}
+	.t\/s\/2\@lg {
+		font-size: 1.25rem;
+	}
+	.t\/s\/3\@lg {
+		font-size: 1.5rem;
+	}
+	.t\/s\/4\@lg {
+		font-size: 1.75rem;
+	}
+	.t\/s\/5\@lg {
+		font-size: 2rem;
+	}
+	.t\/s\/6\@lg {
+		font-size: 3rem;
+	}
+	.t\/s\/7\@lg {
+		font-size: 4rem;
+	}
+	.t\/s\/8\@lg {
+		font-size: 5rem;
+	}
+	.t\/s\/9\@lg {
+		font-size: 6rem;
+	}
+	.t\/s\/10\@lg {
+		font-size: 7rem;
+	}
+}
+
+@media (min-width: 75em) {
+	.t\/s\/-5\@xl {
+		font-size: .125rem;
+	}
+	.t\/s\/-4\@xl {
+		font-size: .25rem;
+	}
+	.t\/s\/-3\@xl {
+		font-size: .333rem;
+	}
+	.t\/s\/-2\@xl {
+		font-size: .666rem;
+	}
+	.t\/s\/-1\@xl {
+		font-size: .8rem;
+	}
+	.t\/s\/0\@xl {
+		font-size: 1rem;
+	}
+	.t\/s\/1\@xl {
+		font-size: 1.125rem;
+	}
+	.t\/s\/2\@xl {
+		font-size: 1.25rem;
+	}
+	.t\/s\/3\@xl {
+		font-size: 1.5rem;
+	}
+	.t\/s\/4\@xl {
+		font-size: 1.75rem;
+	}
+	.t\/s\/5\@xl {
+		font-size: 2rem;
+	}
+	.t\/s\/6\@xl {
+		font-size: 3rem;
+	}
+	.t\/s\/7\@xl {
+		font-size: 4rem;
+	}
+	.t\/s\/8\@xl {
+		font-size: 5rem;
+	}
+	.t\/s\/9\@xl {
+		font-size: 6rem;
+	}
+	.t\/s\/10\@xl {
+		font-size: 7rem;
+	}
+}
+
+.type\/size\/-5 {
+	font-size: 2px;
+	font-size: .125rem;
+}
+
+.type\/size\/-4 {
+	font-size: 4px;
+	font-size: .25rem;
+}
+
+.type\/size\/-3 {
+	font-size: 5.328px;
+	font-size: .333rem;
+}
+
+.type\/size\/-2 {
+	font-size: 10.656px;
+	font-size: .666rem;
+}
+
+.type\/size\/-1 {
+	font-size: 12.8px;
+	font-size: .8rem;
+}
+
+.type\/size\/0 {
+	font-size: 16px;
+	font-size: 1rem;
+}
+
+.type\/size\/1 {
+	font-size: 18px;
+	font-size: 1.125rem;
+}
+
+.type\/size\/2 {
+	font-size: 20px;
+	font-size: 1.25rem;
+}
+
+.type\/size\/3 {
+	font-size: 24px;
+	font-size: 1.5rem;
+}
+
+.type\/size\/4 {
+	font-size: 28px;
+	font-size: 1.75rem;
+}
+
+.type\/size\/5 {
+	font-size: 32px;
+	font-size: 2rem;
+}
+
+.type\/size\/6 {
+	font-size: 48px;
+	font-size: 3rem;
+}
+
+.type\/size\/7 {
+	font-size: 64px;
+	font-size: 4rem;
+}
+
+.type\/size\/8 {
+	font-size: 80px;
+	font-size: 5rem;
+}
+
+.type\/size\/9 {
+	font-size: 96px;
+	font-size: 6rem;
+}
+
+.type\/size\/10 {
+	font-size: 112px;
+	font-size: 7rem;
+}
+
+@media (min-width: 20em) {
+	.type\/size\/-5\@xs {
+		font-size: .125rem;
+	}
+	.type\/size\/-4\@xs {
+		font-size: .25rem;
+	}
+	.type\/size\/-3\@xs {
+		font-size: .333rem;
+	}
+	.type\/size\/-2\@xs {
+		font-size: .666rem;
+	}
+	.type\/size\/-1\@xs {
+		font-size: .8rem;
+	}
+	.type\/size\/0\@xs {
+		font-size: 1rem;
+	}
+	.type\/size\/1\@xs {
+		font-size: 1.125rem;
+	}
+	.type\/size\/2\@xs {
+		font-size: 1.25rem;
+	}
+	.type\/size\/3\@xs {
+		font-size: 1.5rem;
+	}
+	.type\/size\/4\@xs {
+		font-size: 1.75rem;
+	}
+	.type\/size\/5\@xs {
+		font-size: 2rem;
+	}
+	.type\/size\/6\@xs {
+		font-size: 3rem;
+	}
+	.type\/size\/7\@xs {
+		font-size: 4rem;
+	}
+	.type\/size\/8\@xs {
+		font-size: 5rem;
+	}
+	.type\/size\/9\@xs {
+		font-size: 6rem;
+	}
+	.type\/size\/10\@xs {
+		font-size: 7rem;
+	}
+}
+
+@media (min-width: 30em) {
+	.type\/size\/-5\@sm {
+		font-size: .125rem;
+	}
+	.type\/size\/-4\@sm {
+		font-size: .25rem;
+	}
+	.type\/size\/-3\@sm {
+		font-size: .333rem;
+	}
+	.type\/size\/-2\@sm {
+		font-size: .666rem;
+	}
+	.type\/size\/-1\@sm {
+		font-size: .8rem;
+	}
+	.type\/size\/0\@sm {
+		font-size: 1rem;
+	}
+	.type\/size\/1\@sm {
+		font-size: 1.125rem;
+	}
+	.type\/size\/2\@sm {
+		font-size: 1.25rem;
+	}
+	.type\/size\/3\@sm {
+		font-size: 1.5rem;
+	}
+	.type\/size\/4\@sm {
+		font-size: 1.75rem;
+	}
+	.type\/size\/5\@sm {
+		font-size: 2rem;
+	}
+	.type\/size\/6\@sm {
+		font-size: 3rem;
+	}
+	.type\/size\/7\@sm {
+		font-size: 4rem;
+	}
+	.type\/size\/8\@sm {
+		font-size: 5rem;
+	}
+	.type\/size\/9\@sm {
+		font-size: 6rem;
+	}
+	.type\/size\/10\@sm {
+		font-size: 7rem;
+	}
+}
+
+@media (min-width: 37em) {
+	.type\/size\/-5\@md {
+		font-size: .125rem;
+	}
+	.type\/size\/-4\@md {
+		font-size: .25rem;
+	}
+	.type\/size\/-3\@md {
+		font-size: .333rem;
+	}
+	.type\/size\/-2\@md {
+		font-size: .666rem;
+	}
+	.type\/size\/-1\@md {
+		font-size: .8rem;
+	}
+	.type\/size\/0\@md {
+		font-size: 1rem;
+	}
+	.type\/size\/1\@md {
+		font-size: 1.125rem;
+	}
+	.type\/size\/2\@md {
+		font-size: 1.25rem;
+	}
+	.type\/size\/3\@md {
+		font-size: 1.5rem;
+	}
+	.type\/size\/4\@md {
+		font-size: 1.75rem;
+	}
+	.type\/size\/5\@md {
+		font-size: 2rem;
+	}
+	.type\/size\/6\@md {
+		font-size: 3rem;
+	}
+	.type\/size\/7\@md {
+		font-size: 4rem;
+	}
+	.type\/size\/8\@md {
+		font-size: 5rem;
+	}
+	.type\/size\/9\@md {
+		font-size: 6rem;
+	}
+	.type\/size\/10\@md {
+		font-size: 7rem;
+	}
+}
+
+@media (min-width: 50em) {
+	.type\/size\/-5\@lg {
+		font-size: .125rem;
+	}
+	.type\/size\/-4\@lg {
+		font-size: .25rem;
+	}
+	.type\/size\/-3\@lg {
+		font-size: .333rem;
+	}
+	.type\/size\/-2\@lg {
+		font-size: .666rem;
+	}
+	.type\/size\/-1\@lg {
+		font-size: .8rem;
+	}
+	.type\/size\/0\@lg {
+		font-size: 1rem;
+	}
+	.type\/size\/1\@lg {
+		font-size: 1.125rem;
+	}
+	.type\/size\/2\@lg {
+		font-size: 1.25rem;
+	}
+	.type\/size\/3\@lg {
+		font-size: 1.5rem;
+	}
+	.type\/size\/4\@lg {
+		font-size: 1.75rem;
+	}
+	.type\/size\/5\@lg {
+		font-size: 2rem;
+	}
+	.type\/size\/6\@lg {
+		font-size: 3rem;
+	}
+	.type\/size\/7\@lg {
+		font-size: 4rem;
+	}
+	.type\/size\/8\@lg {
+		font-size: 5rem;
+	}
+	.type\/size\/9\@lg {
+		font-size: 6rem;
+	}
+	.type\/size\/10\@lg {
+		font-size: 7rem;
+	}
+}
+
+@media (min-width: 75em) {
+	.type\/size\/-5\@xl {
+		font-size: .125rem;
+	}
+	.type\/size\/-4\@xl {
+		font-size: .25rem;
+	}
+	.type\/size\/-3\@xl {
+		font-size: .333rem;
+	}
+	.type\/size\/-2\@xl {
+		font-size: .666rem;
+	}
+	.type\/size\/-1\@xl {
+		font-size: .8rem;
+	}
+	.type\/size\/0\@xl {
+		font-size: 1rem;
+	}
+	.type\/size\/1\@xl {
+		font-size: 1.125rem;
+	}
+	.type\/size\/2\@xl {
+		font-size: 1.25rem;
+	}
+	.type\/size\/3\@xl {
+		font-size: 1.5rem;
+	}
+	.type\/size\/4\@xl {
+		font-size: 1.75rem;
+	}
+	.type\/size\/5\@xl {
+		font-size: 2rem;
+	}
+	.type\/size\/6\@xl {
+		font-size: 3rem;
+	}
+	.type\/size\/7\@xl {
+		font-size: 4rem;
+	}
+	.type\/size\/8\@xl {
+		font-size: 5rem;
+	}
+	.type\/size\/9\@xl {
+		font-size: 6rem;
+	}
+	.type\/size\/10\@xl {
+		font-size: 7rem;
+	}
+}
+
+.t\/w\/l {
+	font-weight: light;
+}
+
+.t\/w\/n {
+	font-weight: normal;
+}
+
+.t\/w\/b {
+	font-weight: bold;
+}
+
+@media (min-width: 20em) {
+	.t\/w\/l\@xs {
+		font-weight: light;
+	}
+
+	.t\/w\/n\@xs {
+		font-weight: normal;
+	}
+
+	.t\/w\/b\@xs {
+		font-weight: bold;
+	}
+}
+
+@media (min-width: 30em) {
+	.t\/w\/l\@sm {
+		font-weight: light;
+	}
+
+	.t\/w\/n\@sm {
+		font-weight: normal;
+	}
+
+	.t\/w\/b\@sm {
+		font-weight: bold;
+	}
+}
+
+@media (min-width: 37em) {
+	.t\/w\/l\@md {
+		font-weight: light;
+	}
+
+	.t\/w\/n\@md {
+		font-weight: normal;
+	}
+
+	.t\/w\/b\@md {
+		font-weight: bold;
+	}
+}
+
+@media (min-width: 50em) {
+	.t\/w\/l\@lg {
+		font-weight: light;
+	}
+
+	.t\/w\/n\@lg {
+		font-weight: normal;
+	}
+
+	.t\/w\/b\@lg {
+		font-weight: bold;
+	}
+}
+
+@media (min-width: 75em) {
+	.t\/w\/l\@xl {
+		font-weight: light;
+	}
+
+	.t\/w\/n\@xl {
+		font-weight: normal;
+	}
+
+	.t\/w\/b\@xl {
+		font-weight: bold;
+	}
+}
+
+.type\/weight\/light {
+	font-weight: light;
+}
+
+.type\/weight\/normal {
+	font-weight: normal;
+}
+
+.type\/weight\/bold {
+	font-weight: bold;
+}
+
+@media (min-width: 20em) {
+	.type\/weight\/light\@xs {
+		font-weight: light;
+	}
+
+	.type\/weight\/normal\@xs {
+		font-weight: normal;
+	}
+
+	.type\/weight\/bold\@xs {
+		font-weight: bold;
+	}
+}
+
+@media (min-width: 30em) {
+	.type\/weight\/light\@sm {
+		font-weight: light;
+	}
+
+	.type\/weight\/normal\@sm {
+		font-weight: normal;
+	}
+
+	.type\/weight\/bold\@sm {
+		font-weight: bold;
+	}
+}
+
+@media (min-width: 37em) {
+	.type\/weight\/light\@md {
+		font-weight: light;
+	}
+
+	.type\/weight\/normal\@md {
+		font-weight: normal;
+	}
+
+	.type\/weight\/bold\@md {
+		font-weight: bold;
+	}
+}
+
+@media (min-width: 50em) {
+	.type\/weight\/light\@lg {
+		font-weight: light;
+	}
+
+	.type\/weight\/normal\@lg {
+		font-weight: normal;
+	}
+
+	.type\/weight\/bold\@lg {
+		font-weight: bold;
+	}
+}
+
+@media (min-width: 75em) {
+	.type\/weight\/light\@xl {
+		font-weight: light;
+	}
+
+	.type\/weight\/normal\@xl {
+		font-weight: normal;
+	}
+
+	.type\/weight\/bold\@xl {
+		font-weight: bold;
+	}
+}
+
+.t\/ls\/t {
+	letter-spacing: -.08em;
+}
+
+.t\/ls\/n {
+	letter-spacing: .16em;
+}
+
+.t\/ls\/l {
+	letter-spacing: .32em;
+}
+
+@media (min-width: 20em) {
+	.t\/ls\/t\@xs {
+		letter-spacing: -.08em;
+	}
+
+	.t\/ls\/n\@xs {
+		letter-spacing: .16em;
+	}
+
+	.t\/ls\/l\@xs {
+		letter-spacing: .32em;
+	}
+}
+
+@media (min-width: 30em) {
+	.t\/ls\/t\@sm {
+		letter-spacing: -.08em;
+	}
+
+	.t\/ls\/n\@sm {
+		letter-spacing: .16em;
+	}
+
+	.t\/ls\/l\@sm {
+		letter-spacing: .32em;
+	}
+}
+
+@media (min-width: 37em) {
+	.t\/ls\/t\@md {
+		letter-spacing: -.08em;
+	}
+
+	.t\/ls\/n\@md {
+		letter-spacing: .16em;
+	}
+
+	.t\/ls\/l\@md {
+		letter-spacing: .32em;
+	}
+}
+
+@media (min-width: 50em) {
+	.t\/ls\/t\@lg {
+		letter-spacing: -.08em;
+	}
+
+	.t\/ls\/n\@lg {
+		letter-spacing: .16em;
+	}
+
+	.t\/ls\/l\@lg {
+		letter-spacing: .32em;
+	}
+}
+
+@media (min-width: 75em) {
+	.t\/ls\/t\@xl {
+		letter-spacing: -.08em;
+	}
+
+	.t\/ls\/n\@xl {
+		letter-spacing: .16em;
+	}
+
+	.t\/ls\/l\@xl {
+		letter-spacing: .32em;
+	}
+}
+
+.type\/letter-spacing\/tight {
+	letter-spacing: -.08em;
+}
+
+.type\/letter-spacing\/normal {
+	letter-spacing: .16em;
+}
+
+.type\/letter-spacing\/loose {
+	letter-spacing: .32em;
+}
+
+@media (min-width: 20em) {
+	.type\/letter-spacing\/tight\@xs {
+		letter-spacing: -.08em;
+	}
+
+	.type\/letter-spacing\/normal\@xs {
+		letter-spacing: .16em;
+	}
+
+	.type\/letter-spacing\/loose\@xs {
+		letter-spacing: .32em;
+	}
+}
+
+@media (min-width: 30em) {
+	.type\/letter-spacing\/tight\@sm {
+		letter-spacing: -.08em;
+	}
+
+	.type\/letter-spacing\/normal\@sm {
+		letter-spacing: .16em;
+	}
+
+	.type\/letter-spacing\/loose\@sm {
+		letter-spacing: .32em;
+	}
+}
+
+@media (min-width: 37em) {
+	.type\/letter-spacing\/tight\@md {
+		letter-spacing: -.08em;
+	}
+
+	.type\/letter-spacing\/normal\@md {
+		letter-spacing: .16em;
+	}
+
+	.type\/letter-spacing\/loose\@md {
+		letter-spacing: .32em;
+	}
+}
+
+@media (min-width: 50em) {
+	.type\/letter-spacing\/tight\@lg {
+		letter-spacing: -.08em;
+	}
+
+	.type\/letter-spacing\/normal\@lg {
+		letter-spacing: .16em;
+	}
+
+	.type\/letter-spacing\/loose\@lg {
+		letter-spacing: .32em;
+	}
+}
+
+@media (min-width: 75em) {
+	.type\/letter-spacing\/tight\@xl {
+		letter-spacing: -.08em;
+	}
+
+	.type\/letter-spacing\/normal\@xl {
+		letter-spacing: .16em;
+	}
+
+	.type\/letter-spacing\/loose\@xl {
+		letter-spacing: .32em;
+	}
+}
+
+.t\/l\/t {
+	line-height: 1.25;
+}
+
+.t\/l\/n {
+	line-height: 1;
+}
+
+.t\/l\/c {
+	line-height: 1.65;
+}
+
+@media (min-width: 20em) {
+	.t\/l\/t\@xs {
+		line-height: 1.25;
+	}
+
+	.t\/l\/n\@xs {
+		line-height: 1;
+	}
+
+	.t\/l\/c\@xs {
+		line-height: 1.65;
+	}
+}
+
+@media (min-width: 30em) {
+	.t\/l\/t\@sm {
+		line-height: 1.25;
+	}
+
+	.t\/l\/n\@sm {
+		line-height: 1;
+	}
+
+	.t\/l\/c\@sm {
+		line-height: 1.65;
+	}
+}
+
+@media (min-width: 37em) {
+	.t\/l\/t\@md {
+		line-height: 1.25;
+	}
+
+	.t\/l\/n\@md {
+		line-height: 1;
+	}
+
+	.t\/l\/c\@md {
+		line-height: 1.65;
+	}
+}
+
+@media (min-width: 50em) {
+	.t\/l\/t\@lg {
+		line-height: 1.25;
+	}
+
+	.t\/l\/n\@lg {
+		line-height: 1;
+	}
+
+	.t\/l\/c\@lg {
+		line-height: 1.65;
+	}
+
+}
+
+@media (min-width: 75em) {
+	.t\/l\/t\@xl {
+		line-height: 1.25;
+	}
+
+	.t\/l\/n\@xl {
+		line-height: 1;
+	}
+
+	.t\/l\/c\@xl {
+		line-height: 1.65;
+	}
+}
+
+.type\/leading\/title {
+	line-height: 1.25;
+}
+
+.type\/leading\/normal {
+	line-height: 1;
+}
+
+.type\/leading\/copy {
+	line-height: 1.65;
+}
+
+@media (min-width: 20em) {
+	.type\/leading\/title\@xs {
+		line-height: 1.25;
+	}
+
+	.type\/leading\/normal\@xs {
+		line-height: 1;
+	}
+
+	.type\/leading\/copy\@xs {
+		line-height: 1.65;
+	}
+}
+
+@media (min-width: 30em) {
+	.type\/leading\/title\@sm {
+		line-height: 1.25;
+	}
+
+	.type\/leading\/normal\@sm {
+		line-height: 1;
+	}
+
+	.type\/leading\/copy\@sm {
+		line-height: 1.65;
+	}
+}
+
+@media (min-width: 37em) {
+	.type\/leading\/title\@md {
+		line-height: 1.25;
+	}
+
+	.type\/leading\/normal\@md {
+		line-height: 1;
+	}
+
+	.type\/leading\/copy\@md {
+		line-height: 1.65;
+	}
+}
+
+@media (min-width: 50em) {
+	.type\/leading\/title\@lg {
+		line-height: 1.25;
+	}
+
+	.type\/leading\/normal\@lg {
+		line-height: 1;
+	}
+
+	.type\/leading\/copy\@lg {
+		line-height: 1.65;
+	}
+}
+
+@media (min-width: 75em) {
+	.type\/leading\/title\@xl {
+		line-height: 1.25;
+	}
+
+	.type\/leading\/normal\@xl {
+		line-height: 1;
+	}
+
+	.type\/leading\/copy\@xl {
+		line-height: 1.65;
+	}
+}
+
+.t\/t\/c {
+	text-transform: capitalize;
+}
+
+.t\/t\/u {
+	text-transform: uppercase;
+}
+
+.t\/t\/l {
+	text-transform: lowercase;
+}
+
+@media (min-width: 20em) {
+	.t\/t\/c\@xs {
+		text-transform: capitalize;
+	}
+
+	.t\/t\/u\@xs {
+		text-transform: uppercase;
+	}
+
+	.t\/t\/l\@xs {
+		text-transform: lowercase;
+	}
+}
+
+@media (min-width: 30em) {
+	.t\/t\/c\@sm {
+		text-transform: capitalize;
+	}
+
+	.t\/t\/u\@sm {
+		text-transform: uppercase;
+	}
+
+	.t\/t\/l\@sm {
+		text-transform: lowercase;
+	}
+}
+
+@media (min-width: 37em) {
+	.t\/t\/c\@md {
+		text-transform: capitalize;
+	}
+
+	.t\/t\/u\@md {
+		text-transform: uppercase;
+	}
+
+	.t\/t\/l\@md {
+		text-transform: lowercase;
+	}
+}
+
+@media (min-width: 50em) {
+	.t\/t\/c\@lg {
+		text-transform: capitalize;
+	}
+
+	.t\/t\/u\@lg {
+		text-transform: uppercase;
+	}
+
+	.t\/t\/l\@lg {
+		text-transform: lowercase;
+	}
+}
+
+@media (min-width: 75em) {
+	.t\/t\/c\@xl {
+		text-transform: capitalize;
+	}
+
+	.t\/t\/u\@xl {
+		text-transform: uppercase;
+	}
+
+	.t\/t\/l\@xl {
+		text-transform: lowercase;
+	}
+}
+
+.type\/transform\/capitalize {
+	text-transform: capitalize;
+}
+
+.type\/transform\/uppercase {
+	text-transform: uppercase;
+}
+
+.type\/transform\/lowercase {
+	text-transform: lowercase;
+}
+
+@media (min-width: 20em) {
+	.type\/transform\/capitalize\@xs {
+		text-transform: capitalize;
+	}
+
+	.type\/transform\/uppercase\@xs {
+		text-transform: uppercase;
+	}
+
+	.type\/transform\/lowercase\@xs {
+		text-transform: lowercase;
+	}
+}
+
+@media (min-width: 30em) {
+	.type\/transform\/capitalize\@sm {
+		text-transform: capitalize;
+	}
+
+	.type\/transform\/uppercase\@sm {
+		text-transform: uppercase;
+	}
+
+	.type\/transform\/lowercase\@sm {
+		text-transform: lowercase;
+	}
+}
+
+@media (min-width: 37em) {
+	.type\/transform\/capitalize\@md {
+		text-transform: capitalize;
+	}
+
+	.type\/transform\/uppercase\@md {
+		text-transform: uppercase;
+	}
+
+	.type\/transform\/lowercase\@md {
+		text-transform: lowercase;
+	}
+}
+
+@media (min-width: 50em) {
+	.type\/transform\/capitalize\@lg {
+		text-transform: capitalize;
+	}
+
+	.type\/transform\/uppercase\@lg {
+		text-transform: uppercase;
+	}
+
+	.type\/transform\/lowercase\@lg {
+		text-transform: lowercase;
+	}
+}
+
+@media (min-width: 75em) {
+	.type\/transform\/capitalize\@xl {
+		text-transform: capitalize;
+	}
+
+	.type\/transform\/uppercase\@xl {
+		text-transform: uppercase;
+	}
+
+	.type\/transform\/lowercase\@xl {
+		text-transform: lowercase;
+	}
+}
+
+.t\/d\/u {
+	text-decoration: underline;
+}
+
+.t\/d\/n {
+	text-decoration: none;
+}
+
+.t\/d\/s {
+	text-decoration: strikethrough;
+}
+
+@media (min-width: 20em) {
+	.t\/d\/u\@xs {
+		text-decoration: underline;
+	}
+
+	.t\/d\/n\@xs {
+		text-decoration: none;
+	}
+
+	.t\/d\/s\@xs {
+		text-decoration: strikethrough;
+	}
+}
+
+@media (min-width: 30em) {
+	.t\/d\/u\@sm {
+		text-decoration: underline;
+	}
+
+	.t\/d\/n\@sm {
+		text-decoration: none;
+	}
+
+	.t\/d\/s\@sm {
+		text-decoration: strikethrough;
+	}
+}
+
+@media (min-width: 37em) {
+	.t\/d\/u\@md {
+		text-decoration: underline;
+	}
+
+	.t\/d\/n\@md {
+		text-decoration: none;
+	}
+
+	.t\/d\/s\@md {
+		text-decoration: strikethrough;
+	}
+}
+
+@media (min-width: 50em) {
+	.t\/d\/u\@lg {
+		text-decoration: underline;
+	}
+
+	.t\/d\/n\@lg {
+		text-decoration: none;
+	}
+
+	.t\/d\/s\@lg {
+		text-decoration: strikethrough;
+	}
+}
+
+@media (min-width: 75em) {
+	.t\/d\/u\@xl {
+		text-decoration: underline;
+	}
+
+	.t\/d\/n\@xl {
+		text-decoration: none;
+	}
+
+	.t\/d\/s\@xl {
+		text-decoration: strikethrough;
+	}
+}
+
+.type\/decoration\/underline {
+	text-decoration: underline;
+}
+
+.type\/decoration\/none {
+	text-decoration: none;
+}
+
+.type\/decoration\/strikethrough {
+	text-decoration: strikethrough;
+}
+
+@media (min-width: 20em) {
+	.type\/decoration\/underline\@xs {
+		text-decoration: underline;
+	}
+
+	.type\/decoration\/none\@xs {
+		text-decoration: none;
+	}
+
+	.type\/decoration\/strikethrough\@xs {
+		text-decoration: strikethrough;
+	}
+}
+
+@media (min-width: 30em) {
+	.type\/decoration\/underline\@sm {
+		text-decoration: underline;
+	}
+
+	.type\/decoration\/none\@sm {
+		text-decoration: none;
+	}
+
+	.type\/decoration\/strikethrough\@sm {
+		text-decoration: strikethrough;
+	}
+}
+
+@media (min-width: 37em) {
+	.type\/decoration\/underline\@md {
+		text-decoration: underline;
+	}
+
+	.type\/decoration\/none\@md {
+		text-decoration: none;
+	}
+
+	.type\/decoration\/strikethrough\@md {
+		text-decoration: strikethrough;
+	}
+}
+
+@media (min-width: 50em) {
+	.type\/decoration\/underline\@lg {
+		text-decoration: underline;
+	}
+
+	.type\/decoration\/none\@lg {
+		text-decoration: none;
+	}
+
+	.type\/decoration\/strikethrough\@lg {
+		text-decoration: strikethrough;
+	}
+}
+
+@media (min-width: 75em) {
+	.type\/decoration\/underline\@xl {
+		text-decoration: underline;
+	}
+
+	.type\/decoration\/none\@xl {
+		text-decoration: none;
+	}
+
+	.type\/decoration\/strikethrough\@xl {
+		text-decoration: strikethrough;
+	}
+}
+
+.t\/s\/i {
+	font-style: italic;
+}
+
+.t\/s\/n {
+	font-style: normal;
+}
+
+@media (min-width: 20em) {
+	.t\/s\/i\@xs {
+		font-style: italic;
+	}
+
+	.t\/s\/n\@xs {
+		font-style: normal;
+	}
+}
+
+@media (min-width: 30em) {
+	.t\/s\/i\@sm {
+		font-style: italic;
+	}
+
+	.t\/s\/n\@sm {
+		font-style: normal;
+	}
+}
+
+@media (min-width: 37em) {
+	.t\/s\/i\@md {
+		font-style: italic;
+	}
+
+	.t\/s\/n\@md {
+		font-style: normal;
+	}
+}
+
+@media (min-width: 50em) {
+	.t\/s\/i\@lg {
+		font-style: italic;
+	}
+
+	.t\/s\/n\@lg {
+		font-style: normal;
+	}
+}
+
+@media (min-width: 75em) {
+	.t\/s\/i\@xl {
+		font-style: italic;
+	}
+
+	.t\/s\/n\@xl {
+		font-style: normal;
+	}
+}
+
+.type\/style\/italic {
+	font-style: italic;
+}
+
+.type\/style\/normal {
+	font-style: normal;
+}
+
+@media (min-width: 20em) {
+	.type\/style\/italic\@xs {
+		font-style: italic;
+	}
+
+	.type\/style\/normal\@xs {
+		font-style: normal;
+	}
+}
+
+@media (min-width: 30em) {
+	.type\/style\/italic\@sm {
+		font-style: italic;
+	}
+
+	.type\/style\/normal\@sm {
+		font-style: normal;
+	}
+}
+
+@media (min-width: 37em) {
+	.type\/style\/italic\@md {
+		font-style: italic;
+	}
+
+	.type\/style\/normal\@md {
+		font-style: normal;
+	}
+}
+
+@media (min-width: 50em) {
+	.type\/style\/italic\@lg {
+		font-style: italic;
+	}
+
+	.type\/style\/normal\@lg {
+		font-style: normal;
+	}
+}
+
+@media (min-width: 75em) {
+	.type\/style\/italic\@xl {
+		font-style: italic;
+	}
+
+	.type\/style\/normal\@xl {
+		font-style: normal;
+	}
+}

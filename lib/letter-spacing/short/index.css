@@ -1,0 +1,81 @@
+.t\/ls\/t {
+	letter-spacing: var(--funco-type-tracking--tight);
+}
+
+.t\/ls\/n {
+	letter-spacing: var(--funco-type-tracking--normal);
+}
+
+.t\/ls\/l {
+	letter-spacing: var(--funco-type-tracking--loose);
+}
+
+@media (--mq-xs) {
+	.t\/ls\/t\@xs {
+		letter-spacing: var(--funco-type-tracking--tight);
+	}
+
+	.t\/ls\/n\@xs {
+		letter-spacing: var(--funco-type-tracking--normal);
+	}
+
+	.t\/ls\/l\@xs {
+		letter-spacing: var(--funco-type-tracking--loose);
+	}
+}
+
+@media (--mq-sm) {
+	.t\/ls\/t\@sm {
+		letter-spacing: var(--funco-type-tracking--tight);
+	}
+
+	.t\/ls\/n\@sm {
+		letter-spacing: var(--funco-type-tracking--normal);
+	}
+
+	.t\/ls\/l\@sm {
+		letter-spacing: var(--funco-type-tracking--loose);
+	}
+}
+
+@media (--mq-md) {
+	.t\/ls\/t\@md {
+		letter-spacing: var(--funco-type-tracking--tight);
+	}
+
+	.t\/ls\/n\@md {
+		letter-spacing: var(--funco-type-tracking--normal);
+	}
+
+	.t\/ls\/l\@md {
+		letter-spacing: var(--funco-type-tracking--loose);
+	}
+}
+
+@media (--mq-lg) {
+	.t\/ls\/t\@lg {
+		letter-spacing: var(--funco-type-tracking--tight);
+	}
+
+	.t\/ls\/n\@lg {
+		letter-spacing: var(--funco-type-tracking--normal);
+	}
+
+	.t\/ls\/l\@lg {
+		letter-spacing: var(--funco-type-tracking--loose);
+	}
+}
+
+@media (--mq-xl) {
+	.t\/ls\/t\@xl {
+		letter-spacing: var(--funco-type-tracking--tight);
+	}
+
+	.t\/ls\/n\@xl {
+		letter-spacing: var(--funco-type-tracking--normal);
+	}
+
+	.t\/ls\/l\@xl {
+		letter-spacing: var(--funco-type-tracking--loose);
+	}
+}

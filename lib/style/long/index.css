@@ -1,0 +1,57 @@
+.type\/style\/italic {
+	font-style: italic;
+}
+
+.type\/style\/normal {
+	font-style: normal;
+}
+
+@media (--mq-xs) {
+	.type\/style\/italic\@xs {
+		font-style: italic;
+	}
+
+	.type\/style\/normal\@xs {
+		font-style: normal;
+	}
+}
+
+@media (--mq-sm) {
+	.type\/style\/italic\@sm {
+		font-style: italic;
+	}
+
+	.type\/style\/normal\@sm {
+		font-style: normal;
+	}
+}
+
+@media (--mq-md) {
+	.type\/style\/italic\@md {
+		font-style: italic;
+	}
+
+	.type\/style\/normal\@md {
+		font-style: normal;
+	}
+}
+
+@media (--mq-lg) {
+	.type\/style\/italic\@lg {
+		font-style: italic;
+	}
+
+	.type\/style\/normal\@lg {
+		font-style: normal;
+	}
+}
+
+@media (--mq-xl) {
+	.type\/style\/italic\@xl {
+		font-style: italic;
+	}
+
+	.type\/style\/normal\@xl {
+		font-style: normal;
+	}
+}

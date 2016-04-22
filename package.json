@@ -1,0 +1,44 @@
+{
+  "name": "funco-type",
+  "version": "0.1.0",
+  "description": "type utilities with functional style",
+  "main": "index.css",
+  "style": "index.css",
+  "files": [
+    "index.css",
+    "dist",
+    "lib"
+  ],
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "npm-run-all compile:css --parallel watch:css serve",
+    "watch:css": "chokidar 'index.css' 'lib/**.css' -c 'npm run compile:css'",
+    "compile:css": "postcss -u postcss-import -u postcss-for -u postcss-cssnext -d dist/ index.css",
+    "serve": "browser-sync start --server --files \"dist/*.css\" --index \"./test/index.html\" --port \"1337\" --no-open",
+    "prepublish": "npm run compile:css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "funco",
+    "functional css",
+    "utility classes",
+    "helper"
+  ],
+  "author": "Vince Speelman",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.11.2",
+    "chokidar-cli": "^1.2.0",
+    "npm-run-all": "^1.7.0",
+    "postcss-cli": "^2.5.1",
+    "postcss-cssnext": "^2.5.2",
+    "postcss-for": "git+https://github.com/vinspee/postcss-for",
+    "postcss-import": "^8.1.0"
+  },
+  "optionalDependencies": {
+    "postcss-cssnext": "^2.5.2",
+    "postcss-for": "git+https://github.com/vinspee/postcss-for",
+    "postcss-import": "^8.1.0"
+  }
+}

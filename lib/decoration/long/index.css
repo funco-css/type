@@ -1,0 +1,81 @@
+.type\/decoration\/underline {
+	text-decoration: underline;
+}
+
+.type\/decoration\/none {
+	text-decoration: none;
+}
+
+.type\/decoration\/strikethrough {
+	text-decoration: strikethrough;
+}
+
+@media (--mq-xs) {
+	.type\/decoration\/underline\@xs {
+		text-decoration: underline;
+	}
+
+	.type\/decoration\/none\@xs {
+		text-decoration: none;
+	}
+
+	.type\/decoration\/strikethrough\@xs {
+		text-decoration: strikethrough;
+	}
+}
+
+@media (--mq-sm) {
+	.type\/decoration\/underline\@sm {
+		text-decoration: underline;
+	}
+
+	.type\/decoration\/none\@sm {
+		text-decoration: none;
+	}
+
+	.type\/decoration\/strikethrough\@sm {
+		text-decoration: strikethrough;
+	}
+}
+
+@media (--mq-md) {
+	.type\/decoration\/underline\@md {
+		text-decoration: underline;
+	}
+
+	.type\/decoration\/none\@md {
+		text-decoration: none;
+	}
+
+	.type\/decoration\/strikethrough\@md {
+		text-decoration: strikethrough;
+	}
+}
+
+@media (--mq-lg) {
+	.type\/decoration\/underline\@lg {
+		text-decoration: underline;
+	}
+
+	.type\/decoration\/none\@lg {
+		text-decoration: none;
+	}
+
+	.type\/decoration\/strikethrough\@lg {
+		text-decoration: strikethrough;
+	}
+}
+
+@media (--mq-xl) {
+	.type\/decoration\/underline\@xl {
+		text-decoration: underline;
+	}
+
+	.type\/decoration\/none\@xl {
+		text-decoration: none;
+	}
+
+	.type\/decoration\/strikethrough\@xl {
+		text-decoration: strikethrough;
+	}
+}
