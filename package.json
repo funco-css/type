@@ -1,6 +1,6 @@
 {
   "name": "funco-type",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "type utilities with functional style",
   "main": "index.css",
   "style": "index.css",
